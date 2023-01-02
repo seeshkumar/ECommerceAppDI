@@ -1,0 +1,72 @@
+﻿[
+  {
+    "PId": 1,
+    "Brand": "WROGN",
+    "Name": "Black shirt",
+    "Price": 6156,
+    "QuantityAvailable": 47
+  },
+  {
+    "PId": 2,
+    "Brand": "WROGN",
+    "Name": "Blue T-Shirt",
+    "Price": 3863,
+    "QuantityAvailable": 27
+  },
+  {
+    "PId": 3,
+    "Brand": "Levis",
+    "Name": "Blue shirt",
+    "Price": 3108,
+    "QuantityAvailable": 10
+  },
+  {
+    "PId": 4,
+    "Brand": "Metal",
+    "Name": "Blue shirt",
+    "Price": 1293,
+    "QuantityAvailable": 23
+  },
+  {
+    "PId": 5,
+    "Brand": "WROGN",
+    "Name": "Black T-Shirt",
+    "Price": 3486,
+    "QuantityAvailable": 32
+  },
+  {
+    "PId": 6,
+    "Brand": "Levis",
+    "Name": "White shirt",
+    "Price": 4419,
+    "QuantityAvailable": 48
+  },
+  {
+    "PId": 7,
+    "Brand": "Metal",
+    "Name": "Green shirt",
+    "Price": 3645,
+    "QuantityAvailable": 32
+  },
+  {
+    "PId": 8,
+    "Brand": "Levis",
+    "Name": "Red shirt",
+    "Price": 2673,
+    "QuantityAvailable": 34
+  },
+  {
+    "PId": 9,
+    "Brand": "WROGN",
+    "Name": "White T-Shirt",
+    "Price": 4710,
+    "QuantityAvailable": 49
+  },
+  {
+    "PId": 10,
+    "Brand": "WROGN",
+    "Name": "Red T-Shirt",
+    "Price": 4656,
+    "QuantityAvailable": 42
+  }
+]
