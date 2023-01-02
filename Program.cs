@@ -167,7 +167,6 @@ class Program
             case 2:
                 DeleteProductsLoop(products, cartProducts, injector, user);
                 //cartProducts = deleteProducts(CartProducts, displayService);
-                Console.Write("delete mode\n");
                 //goto Checkout;
                 break;
             case 3:
